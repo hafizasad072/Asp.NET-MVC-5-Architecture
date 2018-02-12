@@ -2,3 +2,8 @@ c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\BO\bin\
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\BO\bin\Debug\BO.pdb
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\BO\obj\Debug\BO.dll
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\BO\obj\Debug\BO.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\BO\bin\Debug\BO.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\BO\bin\Debug\BO.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\Projects\UOW and GenericRepository\ArchitectureProject\BO\obj\Debug\BO.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\BO\obj\Debug\BO.pdb

@@ -9,3 +9,15 @@ c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLay
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\DB.Core.pdb
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.xml
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\bin\Debug\DataLayer.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\bin\Debug\DataLayer.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\bin\Debug\DB.Core.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\bin\Debug\DB.Core.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.xml
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\obj\Debug\DataLayer.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\obj\Debug\DataLayer.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DataLayer\bin\Debug\DataLayer.dll.config

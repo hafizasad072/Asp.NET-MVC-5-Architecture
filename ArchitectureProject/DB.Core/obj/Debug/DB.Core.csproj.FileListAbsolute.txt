@@ -8,3 +8,13 @@ c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\obj\Debug\DB.Core.csprojResolveAssemblyReference.cache
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\obj\Debug\DB.Core.dll
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\obj\Debug\DB.Core.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\bin\Debug\DB.Core.dll.config
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\bin\Debug\DB.Core.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\bin\Debug\DB.Core.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\bin\Debug\EntityFramework.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\bin\Debug\EntityFramework.xml
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\obj\Debug\DB.Core.csprojResolveAssemblyReference.cache
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\obj\Debug\DB.Core.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\DB.Core\obj\Debug\DB.Core.pdb

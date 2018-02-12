@@ -16,7 +16,15 @@ namespace ServiceLayer.StudentService
         }
         public int AddStudent()
         {
-            throw new NotImplementedException();
+            var s = new DB.Core.Student();
+            s.Name = "Asad";
+            s.Batch = "BS101";
+            _uow.StudentRepo.Insert(s);
+           var data = _uow.StudentRepo.GetById(1);
+            data.Name = "Omar";
+            _uow.StudentRepo.Edit(data);
+            _uow.Commit();
+            return 0;
         }
     }
 }

@@ -9,3 +9,17 @@ c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\Service
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\DataLayer.pdb
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\DB.Core.pdb
 c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\EntityFramework.xml
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\ServiceLayer.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\ServiceLayer.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\DataLayer.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\DB.Core.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\DataLayer.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\DB.Core.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\EntityFramework.xml
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\obj\Debug\ServiceLayer.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\obj\Debug\ServiceLayer.pdb
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+E:\Projects\UOW and GenericRepository\ArchitectureProject\ServiceLayer\bin\Debug\EntityFramework.dll

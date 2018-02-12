@@ -12,29 +12,39 @@ namespace DataLayer.GenericRepository
     {
         public ArchitectureEntities context;
         public DbSet<T> dbset;
-        public void Delete(T entity)
+        public Repository(ArchitectureEntities context)
         {
-            throw new NotImplementedException();
-        }
-
-        public void Edit(T entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IQueryable<T> GetAll()
-        {
-            throw new NotImplementedException();
+            this.context = context;
+            dbset = context.Set<T>();
         }
 
         public T GetById(int id)
         {
-            throw new NotImplementedException();
+            return dbset.Find(id);
+        }
+
+
+        public IQueryable<T> GetAll()
+        {
+            return dbset;
         }
 
         public void Insert(T entity)
         {
-            throw new NotImplementedException();
+            dbset.Add(entity);
         }
+
+
+        public void Edit(T entity)
+        {
+            context.Entry(entity).State = EntityState.Modified;
+        }
+
+
+        public void Delete(T entity)
+        {
+            context.Entry(entity).State = EntityState.Deleted;
+        }
+
     }
 }

@@ -4,9 +4,9 @@
     <EntitySetMapping Name="Students">
       <EntityTypeMapping TypeName="ArchitectureModel.Student">
         <MappingFragment StoreEntitySet="Student">
-          <ScalarProperty Name="ID" ColumnName="ID" />
-          <ScalarProperty Name="Name" ColumnName="Name" />
           <ScalarProperty Name="Batch" ColumnName="Batch" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
