@@ -1,0 +1,11 @@
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\DataLayer.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\obj\Debug\DataLayer.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\obj\Debug\DataLayer.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\DB.Core.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\DB.Core.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.xml
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DataLayer\bin\Debug\EntityFramework.SqlServer.xml

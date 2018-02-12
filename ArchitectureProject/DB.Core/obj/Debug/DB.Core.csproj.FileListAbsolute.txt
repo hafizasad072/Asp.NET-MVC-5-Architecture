@@ -1,0 +1,10 @@
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\bin\Debug\DB.Core.dll.config
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\bin\Debug\DB.Core.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\bin\Debug\DB.Core.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\bin\Debug\EntityFramework.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\bin\Debug\EntityFramework.xml
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\obj\Debug\DB.Core.csprojResolveAssemblyReference.cache
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\obj\Debug\DB.Core.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\DB.Core\obj\Debug\DB.Core.pdb

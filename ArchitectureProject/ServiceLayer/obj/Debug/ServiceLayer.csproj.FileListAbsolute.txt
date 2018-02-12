@@ -1,0 +1,11 @@
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\ServiceLayer.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\ServiceLayer.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\obj\Debug\ServiceLayer.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\obj\Debug\ServiceLayer.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\DataLayer.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\DB.Core.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\EntityFramework.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\DataLayer.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\DB.Core.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\ServiceLayer\bin\Debug\EntityFramework.xml

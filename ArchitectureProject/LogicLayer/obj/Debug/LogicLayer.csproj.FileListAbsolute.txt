@@ -1,0 +1,11 @@
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\bin\Debug\LogicLayer.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\bin\Debug\LogicLayer.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\bin\Debug\System.Web.Mvc.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\bin\Debug\System.Web.Razor.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\bin\Debug\System.Web.WebPages.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\obj\Debug\LogicLayer.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\LogicLayer\obj\Debug\LogicLayer.pdb

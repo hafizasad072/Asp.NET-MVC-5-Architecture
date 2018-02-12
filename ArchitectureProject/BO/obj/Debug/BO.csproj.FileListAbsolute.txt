@@ -1,0 +1,4 @@
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\BO\bin\Debug\BO.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\BO\bin\Debug\BO.pdb
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\BO\obj\Debug\BO.dll
+c:\users\hafiz\documents\visual studio 2015\Projects\ArchitectureProject\BO\obj\Debug\BO.pdb
