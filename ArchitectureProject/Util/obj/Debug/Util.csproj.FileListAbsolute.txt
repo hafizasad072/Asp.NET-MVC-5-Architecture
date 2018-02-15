@@ -1,0 +1,31 @@
+c:\users\asad\documents\visual studio 2015\Projects\VstTestProject\Util\bin\Debug\Util.dll
+c:\users\asad\documents\visual studio 2015\Projects\VstTestProject\Util\bin\Debug\Util.pdb
+c:\users\asad\documents\visual studio 2015\Projects\VstTestProject\Util\bin\Debug\AutoMapper.dll
+c:\users\asad\documents\visual studio 2015\Projects\VstTestProject\Util\bin\Debug\AutoMapper.xml
+c:\users\asad\documents\visual studio 2015\Projects\VstTestProject\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+c:\users\asad\documents\visual studio 2015\Projects\VstTestProject\Util\obj\Debug\Util.dll
+c:\users\asad\documents\visual studio 2015\Projects\VstTestProject\Util\obj\Debug\Util.pdb
+E:\New SVN Repository Codes\VST_OA_UT_01\trunk\VST.OA.UT\Util\bin\Debug\Util.dll
+E:\New SVN Repository Codes\VST_OA_UT_01\trunk\VST.OA.UT\Util\bin\Debug\Util.pdb
+E:\New SVN Repository Codes\VST_OA_UT_01\trunk\VST.OA.UT\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+E:\New SVN Repository Codes\VST_OA_UT_01\trunk\VST.OA.UT\Util\obj\Debug\Util.dll
+E:\New SVN Repository Codes\VST_OA_UT_01\trunk\VST.OA.UT\Util\obj\Debug\Util.pdb
+E:\OA\VST_OA_UT_01\trunk\VST.OA.UT\Util\bin\Debug\Util.dll
+E:\OA\VST_OA_UT_01\trunk\VST.OA.UT\Util\bin\Debug\Util.pdb
+E:\OA\VST_OA_UT_01\trunk\VST.OA.UT\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+E:\OA\VST_OA_UT_01\trunk\VST.OA.UT\Util\obj\Debug\Util.dll
+E:\OA\VST_OA_UT_01\trunk\VST.OA.UT\Util\obj\Debug\Util.pdb
+E:\VST_OA_UT_New\trunk\VST.OA.UT\Util\bin\Debug\Util.dll
+E:\VST_OA_UT_New\trunk\VST.OA.UT\Util\bin\Debug\Util.pdb
+E:\VST_OA_UT_New\trunk\VST.OA.UT\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+E:\VST_OA_UT_New\trunk\VST.OA.UT\Util\obj\Debug\Util.dll
+E:\VST_OA_UT_New\trunk\VST.OA.UT\Util\obj\Debug\Util.pdb
+E:\OA\VST_OA_UT_01\trunk\OAMSCustomer\Util\bin\Debug\Util.dll
+E:\OA\VST_OA_UT_01\trunk\OAMSCustomer\Util\bin\Debug\Util.pdb
+E:\OA\VST_OA_UT_01\trunk\OAMSCustomer\Util\obj\Debug\Util.dll
+E:\OA\VST_OA_UT_01\trunk\OAMSCustomer\Util\obj\Debug\Util.pdb
+E:\VST_OA_UT_New\trunk\OAMSCustomer\Util\bin\Debug\Util.dll
+E:\VST_OA_UT_New\trunk\OAMSCustomer\Util\bin\Debug\Util.pdb
+E:\VST_OA_UT_New\trunk\OAMSCustomer\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+E:\VST_OA_UT_New\trunk\OAMSCustomer\Util\obj\Debug\Util.dll
+E:\VST_OA_UT_New\trunk\OAMSCustomer\Util\obj\Debug\Util.pdb
